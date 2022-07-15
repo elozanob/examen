@@ -1,0 +1,47 @@
+body {
+    background-color: azure;
+}
+
+.c1 {
+    height: 500px;
+}
+
+.card {
+    height: 75px !important;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.verde {
+    background-color: greenyellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: white;
+    text-decoration: none;
+
+}
+.container-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
